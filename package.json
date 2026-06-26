@@ -1,9 +1,9 @@
 {
-  "name": "68md5",
+  "name": "hittx",
   "version": "1.0.0",
-  "main": "68md5.js",
+  "main": "hittx.js",
   "scripts": {
-    "start": "node 68md5.js"
+    "start": "node hittx.js"
   },
   "dependencies": {
     "axios": "^1.11.0",
